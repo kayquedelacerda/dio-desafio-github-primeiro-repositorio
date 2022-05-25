@@ -1,5 +1,5 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/GitHub - DIO BootCamp Avanade
+# Desafio de Projeto sobre Git/GitHub - DIO BootCamp Avanade
+Repositório criado para o desafio de projeto
 
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
